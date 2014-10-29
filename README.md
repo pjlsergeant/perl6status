@@ -1,6 +1,3 @@
-Status of Perl 6
-================
-
 What is the current status of Perl 6?
 -------------------------------------
 
