@@ -67,3 +67,10 @@ What has happened with Perl 6 recently, and what's next?
 --------------------------------------------------------
 
 There's an excellent blog here: http://p6weekly.wordpress.com/
+
+Who made this document, and where does it live?
+-----------------------------------------------
+
+[Perl Careers, for London-based Perl jobs](http://perl.careers/) made it.
+
+It lives on Github: https://github.com/sheriff/perl6status/
