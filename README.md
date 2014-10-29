@@ -19,7 +19,8 @@ Rakudo Star misses a few Unicode features Perl 5 has and doesn't have non-blocki
 
 Other than that, the "not done" parts are things `/usr/bin/perl5` can't do right now:
 advanced macros, threads and concurrency, specialist data-types for people working with
-large numeric data sets, and a few other bits and pieces.
+large numeric data sets, and a few other bits and pieces. Additionally, performance and
+stability have the characteristics of an alpha.
 
 You can download Rakudo Star here: http://rakudo.org/how-to-get-rakudo/
 
