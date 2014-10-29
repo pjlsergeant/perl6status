@@ -10,11 +10,11 @@ and you can do that __today__.
 
 If you're a Perl 5 user, you might be asking: "Can [the implementation of Perl 6 called
 Rakudo Star] do everything that `/usr/bin/perl5` can today?" The answer is "mostly, yes".
-Rakudo Star misses a few Unicode features Perl 5 has, doesn't have non-blocking IO, and
-doesn't have a `pack`/`unpack`. In the unlikely event you've ever used
+Rakudo Star misses a few Unicode features Perl 5 has and doesn't have non-blocking IO
+across all its backends. In the unlikely event you've ever used
 [Perl formats](http://perldoc.perl.org/perlform.html), they're missing too.
 
-Other than that, the "not done" parts are things `/usr/bin/perl5` can't do right now:
+Other than that, the "not quite done" parts are things `/usr/bin/perl5` can't do right now:
 advanced macros, threads and concurrency, specialist data-types for people working with
 large numeric data sets, and a few other bits and pieces. Additionally, performance and
 stability have the characteristics of an alpha.
