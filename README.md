@@ -15,7 +15,9 @@ and you can do that __today__.
 
 If you're a Perl 5 user, you might be asking: "Can [the implementation of Perl 6 called
 Rakudo Star] do everything that `/usr/bin/perl5` can today?" The answer is "mostly, yes".
-Rakudo Star misses a few Unicode features Perl 5 has and doesn't have non-blocking IO.
+Rakudo Star misses a few Unicode features Perl 5 has, doesn't have non-blocking IO, and
+doesn't have a `pack`/`unpack`. In the unlikely event you've ever used
+[Perl formats](http://perldoc.perl.org/perlform.html), they're missing too.
 
 Other than that, the "not done" parts are things `/usr/bin/perl5` can't do right now:
 advanced macros, threads and concurrency, specialist data-types for people working with
@@ -37,18 +39,17 @@ infrastructure yet, but you can see a list of Perl 6 modules here: http://module
 
 Some quick links:
 
-  * MD5 implementation: https://github.com/cosimo/perl6-digest-md5/blob/master/lib/Digest/MD5.pm
+  * [MD5 implementation](https://github.com/cosimo/perl6-digest-md5/blob/master/lib/Digest/MD5.pm)
 
-  * Email header parsing: https://github.com/retupmoca/p6-Email-Simple/blob/master/lib/Email/Simple/Header.pm6
+  * [Email header parsing](https://github.com/retupmoca/p6-Email-Simple/blob/master/lib/Email/Simple/Header.pm6)
 
-  * File::Find implementation: https://github.com/tadzik/File-Find/blob/master/lib/File/Find.pm
+  * [File::Find implementation](https://github.com/tadzik/File-Find/blob/master/lib/File/Find.pm)
 
 __Rosetta Code__
 
 Rosetta Code shows how many different programming tasks are accomplished in many different
-languages. Over 700 Perl 6 examples are linked to from:
-
-  * http://rosettacode.org/wiki/Category:Perl_6
+languages. Over 700 Perl 6 examples are linked to from
+[the Perl 6 category](http://rosettacode.org/wiki/Category:Perl_6)
 
 __Documentation__
 
