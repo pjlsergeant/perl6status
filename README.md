@@ -19,10 +19,21 @@ advanced macros, threads and concurrency, specialist data-types for people worki
 large numeric data sets, and a few other bits and pieces. Additionally, performance and
 stability have the characteristics of an alpha.
 
-[How to download Rakudo Star](http://rakudo.org/how-to-get-rakudo/)
+But it has all the rest of the cool stuff you were promised, __already__:
+
+ * A [rich OO model](http://perlcabal.org/syn/S12.html#Classes)
+   with mixins, compositions, parametric roles, all sorts of fun stuff
+
+ * [Grammar-inspired regular expressions](http://en.wikipedia.org/wiki/Perl_6_rules)
+
+ * [Junctions](http://en.wikipedia.org/wiki/Perl_6#Junctions), which are composite values
+
+ * And almost everything else you'd want from an alpha of a new dynamic language...
 
 Most of the current work on "Perl 6" is in fixing bugs, performance, and stability of
 the pieces that makes up the Rakudo Star distribution rather than adding new features.
+
+[How to download Rakudo Star](http://rakudo.org/how-to-get-rakudo/)
 
 Where can I see some examples of Perl 6?
 ----------------------------------------
