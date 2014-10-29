@@ -14,7 +14,7 @@ in Perl 6, use modules written in Perl 6 (a selection of which are bundled with 
 and you can do that __today__.
 
 If you're a Perl 5 user, you might be asking: "Can [the implementation of Perl 6 called
-Rakudo Star] do everything that /usr/bin/perl can today?" The answer is "mostly, yes".
+Rakudo Star] do everything that `/usr/bin/perl5` can today?" The answer is "mostly, yes".
 Rakudo Star misses a few Unicode features Perl 5 has and doesn't have non-blocking IO.
 
 Other than that, the "not done" parts are things `/usr/bin/perl` can't do right now:
