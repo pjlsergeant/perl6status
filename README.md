@@ -40,10 +40,10 @@ the pieces that makes up the Rakudo Star distribution rather than adding new fea
 [How to download Rakudo Star](http://rakudo.org/how-to-get-rakudo/)
 
 
-What in the relationship between Perl5 and Perl6?
+What in the relationship between Perl 5 and Perl 6?
 -------------------------------------------------
 
-Although Perl6 was originally envisioned as the next great version of Perl, the community now deems Perl5 and Perl6 as separate projects with separate development teams and project goals. Perl5 continues to flourish into its 3rd decade and there is no plan for it to cease development anytime soon. Read more about it [here](http://perl-begin.org/learn/perl6/)
+Although Perl 6 was originally envisioned as the next great version of Perl, the community now deems Perl 5 and Perl 6 as separate projects with separate development teams and project goals. Perl 5 continues to flourish into its 3rd decade and there is no plan for it to cease development anytime soon. Read more about it [here](http://perl-begin.org/learn/perl6/)
 
 
 Where can I see some examples of Perl 6?
