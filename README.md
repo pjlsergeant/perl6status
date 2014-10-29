@@ -1,6 +1,10 @@
 What is the current status of Perl 6?
 -------------------------------------
 
+__Quick answer:__ there's a usable alpha, ready to download and use right now.
+
+__Longer answer:__
+
 Perl 6 is a language specification. There is an implementation of it called _Rakudo_,
 and a distribution of _Rakudo_ called _Rakudo Star_.
 
