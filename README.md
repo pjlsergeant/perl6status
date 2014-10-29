@@ -1,7 +1,8 @@
 Status of Perl 6
 ================
 
-(Last update: 2014 Oct 29)
+What is the current status of Perl 6?
+-------------------------------------
 
 Perl 6 is a language specification. There is an implementation of it called _Rakudo_,
 and a distribution of _Rakudo_ called _Rakudo Star_.
