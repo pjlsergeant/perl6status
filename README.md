@@ -1,8 +1,6 @@
 Status of Perl 6
 ================
 
-(Last update: 2014 Oct 29)
-
 What is the current status of Perl 6?
 -------------------------------------
 
