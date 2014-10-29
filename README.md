@@ -53,6 +53,11 @@ __Documentation__
 
 Many examples are linked to from: http://perl6.org/documentation/
 
+Tell me something cool about "recent" Perl 6 developments!
+----------------------------------------------------------
+
+Rakudo has a JVM backend! That's cool, right?
+
 Where can I learn Perl 6?
 -------------------------
 
