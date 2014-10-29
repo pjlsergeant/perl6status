@@ -19,7 +19,7 @@ advanced macros, threads and concurrency, specialist data-types for people worki
 large numeric data sets, and a few other bits and pieces. Additionally, performance and
 stability have the characteristics of an alpha.
 
-You can download Rakudo Star here: http://rakudo.org/how-to-get-rakudo/
+[How to download Rakudo Star](http://rakudo.org/how-to-get-rakudo/)
 
 Most of the current work on "Perl 6" is in fixing bugs, performance, and stability of
 the pieces that makes up the Rakudo Star distribution rather than adding new features.
@@ -30,7 +30,7 @@ Where can I see some examples of Perl 6?
 __Modules__
 
 One of Perl's strengths has always been CPAN. Perl 6 doesn't have a rich CPAN
-infrastructure yet, but you can see a list of Perl 6 modules here: http://modules.perl6.org/
+infrastructure yet, but [a list of Perl 6 modules is available](http://modules.perl6.org/)
 
 Some quick links:
 
@@ -48,7 +48,7 @@ languages. Over 700 Perl 6 examples are linked to from
 
 __Documentation__
 
-Many examples are linked to from: http://perl6.org/documentation/
+Many examples are linked to from the [official Perl 6 documentation](http://perl6.org/documentation/)
 
 Tell me something cool about "recent" Perl 6 developments!
 ----------------------------------------------------------
@@ -58,16 +58,17 @@ Rakudo has a JVM backend! That's cool, right?
 Where can I learn Perl 6?
 -------------------------
 
-There are a number of tutorials and code examples at: http://perl6.org/documentation/
+There are a number of tutorials and code examples at the
+[official Perl 6 documentation](http://perl6.org/documentation/)
 
 What has happened with Perl 6 recently, and what's next?
 --------------------------------------------------------
 
-There's an excellent blog here: http://p6weekly.wordpress.com/
+[There's an excellent blog](http://p6weekly.wordpress.com/)
 
 Who made this document, and where does it live?
 -----------------------------------------------
 
 [Perl Careers, for London-based Perl jobs](http://perl.careers/) made it.
 
-It lives on Github: https://github.com/sheriff/perl6status/
+It lives on [Github](https://github.com/sheriff/perl6status/)
